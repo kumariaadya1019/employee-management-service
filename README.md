@@ -1,32 +1,25 @@
-# Employee Management API
+### 📬 Find me at
 
-A robust RESTful Spring Boot microservice designed to handle core employee data operations. This backend system provides secure and efficient endpoints for creating, retrieving, updating, and deleting employee records, built with a focus on high performance and clean architecture.
+<a href="https://linkedin.com/in/your-linkedin-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="mailto:kumari.aadya1019@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 
-## 🚀 Technologies Used
-*   **Language:** Java 17 (Streams, Lambda Expressions)
-*   **Framework:** Spring Boot 3.x, Spring Data JPA, Spring Web
-*   **Database:** PostgreSQL (with HikariCP connection pooling)
-*   **Build Tool:** Maven
-*   **Testing:** JUnit 5, Postman
+### A little about me... 🐈
 
-## ⚙️ Core Features
-*   **Multi-layered Architecture:** Implements standard Controller, Service, and Repository layers for clean separation of concerns.
-*   **Data Transfer Objects (DTOs):** Utilizes DTOs and Mappers to ensure secure and efficient data transfer between the client and database.
-*   **Exception Handling:** Centralized `@ControllerAdvice` for graceful error management and standardized API responses.
-*   **Data Validation:** Integrated Spring Boot Validation (Hibernate Validator) for strict entity and request payload constraints.
+I'm Aadya, a Backend Development Engineer having 5+ years of experience working exclusively in core backend engineering, enterprise applications, and microservices architecture. I'm a *Tech Enthusiast* 💻 🤩 passionate about optimizing database operations and building highly scalable systems. I love problem-solving and engineering robust RESTful APIs.
 
-## 📡 API Endpoints
+### ⚡ A Few Quick Facts
 
-| HTTP Method | Endpoint | Description |
-| :--- | :--- | :--- |
-| `GET` | `/api/v1/employees` | Retrieve a list of all employees |
-| `GET` | `/api/v1/employees/{id}` | Retrieve a specific employee by ID |
-| `POST` | `/api/v1/employees` | Create a new employee record |
-| `PUT` | `/api/v1/employees/{id}` | Update an existing employee record |
-| `DELETE` | `/api/v1/employees/{id}` | Delete an employee record |
+*   🛸 I enjoy working on
+    *   ☕ Java & Spring Boot Architecture
+    *   ⚙️ Microservices & REST API Development
+*   👯 I'm looking to collaborate on backend optimization projects and enterprise-level system design.
+*   💬 Ask me about Java, Spring Boot, Multithreading, and Exception Handling.
 
-## 🛠️ Local Setup Instructions
+### 🚀 Quick Stats
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/kumariaadya1019-crypto/employee-management-api.git](https://github.com/kumariaadya1019-crypto/employee-management-api.git)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kumariaadya1019-crypto)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kumariaadya1019-crypto&show_icons=true&theme=radical" alt="Aadya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumariaadya1019-crypto&layout=compact&theme=radical" alt="Top Languages" />
+</p>
